@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="make_learning_fun_study_online_with_udacity">Make learning fun - study online with Udacity!</string>
+    <string name="learn_the_skills_you_need_to_land_the_job_you_want_to_build_the_life_you_deserve">Learn the skills you need, to land the job you want, to build the life you deserve!</string>
+    <string name="_2465_latham_st_mountain_view_ca_94043">2465 Latham St, Mountain View, CA 94043</string>
+    <string name="_650_555_5555">650-555-5555</string>
+    <string name="www_udacity_com">www.udacity.com</string>
+</resources>
